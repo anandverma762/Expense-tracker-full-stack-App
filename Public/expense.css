@@ -1,0 +1,43 @@
+body {
+    background-image: url(1.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+input[type=submit] {
+    
+    
+    border-radius: 6px;
+    background-color: rgb(11, 185, 31);
+}
+
+input[type=button]:hover{
+    background-color: rgb(192, 237, 12);
+    cursor: pointer;
+}
+
+
+label{
+    
+    border-radius: 2px;
+    color: rgb(221, 239, 17);
+    font-size: 28px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  transform: perspective(100px) rotateX(20deg);
+}
+
+input ,.choice {
+    border-radius: 4px;
+    height: 35px;;
+    
+}
+
+.head {
+    /* background-color: rgb(244, 104, 4); */
+    text-shadow: 0cqw;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  transform: perspective(100px) rotateX(20deg);
+}
